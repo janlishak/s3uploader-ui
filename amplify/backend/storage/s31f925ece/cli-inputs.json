@@ -1,0 +1,12 @@
+{
+  "resourceName": "s31f925ece",
+  "policyUUID": "1f925ece",
+  "bucketName": "s3uploader324dbc294d9e4e748b739484384788aa",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
